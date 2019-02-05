@@ -29,7 +29,7 @@ You write CSS rules in elements, and modify properties of those elements such as
 - Flexbox froggy: [https://flexboxfroggy.com](https://flexboxfroggy.com)
 
 
-- NISHANTH REDDY DEVI REDDY, Applied Computer Science
+
 
 
 
@@ -45,3 +45,4 @@ You write CSS rules in elements, and modify properties of those elements such as
 - SAI KIRAN DODDAPANENI, Applied Computer Science
 - MILLINDAR REDDY MALIGIREDDY, Applied Computer Science
 - YESHWANTH REDDY ANUMULA, Applied Computer Science
+- NISHANTH REDDY DEVI REDDY, Applied Computer Science
