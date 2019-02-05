@@ -5,7 +5,7 @@
 
 ## Repository Links
 -  [GitHub page](https://github.com/Nishanthreddy1997/workshop_on_CSS  "page")
--  [Source ](https://nishanthreddy1997.github.io/workshop_on_CSS/"Source")
+-  [Source ](https://nishanthreddy1997.github.io/workshop_on_CSS "Source")
 # **Cascading style sheets**
 css describes the way the html elements are to be represented, with which the layout of multiple webpages can be controlled.
 Styles - define how to display HTML elements
